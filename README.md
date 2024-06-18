@@ -8,5 +8,5 @@
         tjos
         askdsa
 
-![wisecow-deployment](https://github.com/MadhoshYagnik/problem1-wisecow-deployment/blob/main/wisecow-deployment.jpg "Optional Title")
+![wisecow-deployment](https://github.com/MadhoshYagnik/problem1-wisecow-deployment/blob/main/wisecow-deployment.jpg "wisecow-deployment")
 
